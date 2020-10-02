@@ -13,3 +13,8 @@
 - 😄 Pronouns: Pradhyum
 - ⚡ Fun fact: Always have something to learn new tech😄😄
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pradhyumvyas-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
