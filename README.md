@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with some good projects
 - 💬 Ask me about Python Programming,Django Framework, Data Scrapping, Front-End Development,DataBase (SQL, MongoDB), JavaScript 
 - 📫 How to reach me: <a href="https://twitter.com/pradhyumvyas/" rel="nofollow">Twitter</a> <a href="https://www.linkedin.com/in/pradhyumvyas" rel="nofollow">LinkedIn</a>
-- 😄 Pronouns: Pradhyum
+
 - ⚡ Fun fact: Always have something to learn new tech😄😄
 
 
