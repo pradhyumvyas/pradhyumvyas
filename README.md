@@ -13,7 +13,21 @@
 
 - ⚡ Fun fact: Always have something to learn new tech😄😄
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pradhyumvyas&theme=onedark)](https://github.com/pradhyumvyas)
+  <img align="left" alt="pradhyumvyas" src="https://github-readme-stats.codestackr.vercel.app/api?username=pradhyumvyas&show_icons=true&hide_border=true" />
+
+</details>
+<details>
+  <summary>:zap: GitHub History</summary>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradhyumvyas&" alt="pradhyumvyas" /></p>
+
+</details>
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradhyumvyas&show_icons=true&locale=en&layout=compact" alt="pradhyumvyas" /></p>
+</details>
 
 
