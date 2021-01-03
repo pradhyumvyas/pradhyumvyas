@@ -1,4 +1,6 @@
-## Hi there Everyone 👋, #This is PRADHYUM VYAS
+
+  <h1 align="center"> This is PRADHYUM VYAS </h1>
+ <h3 align="center"> Hi there Everyone 👋, </h3>
 
 <!--
 **pradhyumvyas/pradhyumvyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
