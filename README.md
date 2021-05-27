@@ -14,13 +14,13 @@
 - 👯 I’m looking to collaborate on Django Project
 - 💬 Ask me about Python Programming,Django Framework, Data Scrapping, Front-End Development,DataBase (SQL, MongoDB), JavaScript 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/pradhyumvyas" rel="nofollow">LinkedIn</a>
-
+<!-- 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="pradhyumvyas" src="https://github-readme-stats.codestackr.vercel.app/api?username=pradhyumvyas&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 <details>
   <summary>:zap: GitHub History</summary>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradhyumvyas&" alt="pradhyumvyas" /></p>
