@@ -20,7 +20,8 @@
 - Familiarity with agile methodologies and DevOps practices
 
 🤝 I'm always open to collaborating on exciting new projects and expanding my skill set. Let's connect and build something awesome together!
--✉️ Feel free to reach out to me via email at pradhyumvyas92@gmail.com or find me on LinkedIn at <a href="https://www.linkedin.com/in/pradhyumvyas" rel="nofollow">![image](https://user-images.githubusercontent.com/38814603/232329492-db5edf43-df80-447f-a1f5-540bc28354af.png)</a>
+-✉️ Feel free to reach out to me via email at pradhyumvyas92@gmail.com or find me on LinkedIn at <a href="https://www.linkedin.com/in/pradhyumvyas" rel="nofollow"><img src="![image](https://user-images.githubusercontent.com/38814603/232329700-f43717ce-58eb-4e5e-90a2-f96243c548ed.png)
+" /></a>
 <!-- 
 <details>
   <summary>:zap: GitHub Stats</summary>
