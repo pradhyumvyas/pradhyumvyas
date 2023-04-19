@@ -8,14 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/pradhyumvyas" target="blank"><img src="https://img.shields.io/twitter/follow/pradhyumvyas?logo=twitter&style=for-the-badge" alt="pradhyumvyas" /></a> </p>
 <p align="left"> <a href="https://www.instagram.com/pradhyumvyas/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="pradhyumvyas" /></a> </p>
-<h5>👨‍💻 I specialize in the following areas:</h5>
+<h3>👨‍💻 I specialize in the following areas:</h3>
 
 - I’m currently working as a Full stack developer.
 - JavaScript frameworks like React and Angular.
 - C# and .NET development.
 - CMS platforms such as Sitecore.
 
-<h5>📚 My technical skills include:</h5>
+<h3>📚 My technical skills include:</h3>
 
 - Proficient in JavaScript, dotNet, C#, Angular.
 - Experience with TypeScript, Node.js, and jQuery
