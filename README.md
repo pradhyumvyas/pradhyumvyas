@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradhyum</h1>
-<h3 align="center">A passionate Software developer from India :heart:</h3>
+<h3 align="center">Passionate software developer hailing from :india::heart:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradhyumvyas&label=Profile%20views&color=0e75b6&style=flat" alt="pradhyumvyas" /> </p>
 
